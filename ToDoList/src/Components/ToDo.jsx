@@ -18,6 +18,7 @@ const ToDo=()=>{
     
        
         <div className="container">
+            <h1>Todo List</h1>
           <input
             type="text"
             value={inpTask}
